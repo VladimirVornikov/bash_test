@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+  BoBawp     935     934 pty0     09:46:58 /usr/bin/bash
+  BoBawp     934       1 ?        09:46:57 /usr/bin/mintty
+  BoBawp    1056     935 pty0     10:01:57 /usr/bin/ps
